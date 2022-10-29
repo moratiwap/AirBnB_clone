@@ -23,6 +23,6 @@ $ ./console.py
 Documented commands (type help <topic>):
 ========================================
 
-  ### Authors
+  ### Authors of the project
   - Moratiwa Ndiane  
   - Mikiyas Hailu
